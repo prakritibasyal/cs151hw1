@@ -1,0 +1,12 @@
+Your name: Prakriti Basyal
+Your student ID:013460031
+Your major:Computer Science
+Your preferred email address: prakriti.basyal@sjsu.edu
+Check one: [x] Undergraduate, [ ] Graduate, [ ] Open university 
+Repeating the class? [ ] Yes, [x] No
+Place and semester where you took a programming course in Java: De Anza College,2018 Winter
+Course number and grade received:CIS 35A , "A"
+Place and semester where you took a course in data structures: De Anza College,2017 Fall
+Course number and grade received:CIS 22C,"A"
+Time it took you to answer the two questions below:1 hour
+Did you ask anyone for help? [ ] Yes, [x] No
